@@ -1,0 +1,28 @@
+{
+  "files.associations": {
+    "PHEPTOANCOBAN2.C": "cpp",
+    "CHUYENDOINHIETDO.C": "cpp",
+    "CHUYENDOINGAYTHANG.C": "cpp",
+    "PHUONGTRINHBAC1.C": "cpp",
+    "PHUONGTRINHBAC2.C": "cpp",
+    "SOCHINHPHUONG.C": "cpp",
+    "MINTRONG3SO.C": "cpp",
+    "HINHVUONG.C": "cpp",
+    "HINHVUONGNHONHAT.C": "cpp",
+    "GHEPHINH.C": "cpp",
+    "BANGCUUCHUONG.C": "cpp",
+    "TONGCHUSO1.C": "cpp",
+    "TONGCHUSO.C": "cpp",
+    "BATDAUVAKETTHUC.C": "cpp",
+    "SONGUYENTO.C": "cpp",
+    "UOCSOCHUNGLONNHAT.C": "cpp",
+    "PHANTICHTHUASONGUYENTO.C": "cpp",
+    "PHANTICHTHUASONGUYENTO1.C": "cpp",
+    "TICH CHU SO.C": "cpp",
+    "TINHTONGTRONGDOAN.C": "cpp",
+    "THAYDOIDAUCUOI.C": "cpp",
+    "DEMSOCHUSO.C": "cpp",
+    "TRONXAU.C": "cpp",
+    "HINHVUONGDAUSAO.C": "cpp"
+  }
+}
